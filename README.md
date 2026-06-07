@@ -1,8 +1,8 @@
 <img src="https://media.everskies.com/Sf4DpjRKYqtN6UEcrDM_.gif"/>
 < img src=”<img width="521" height="305" alt="eijgoweijhoeijh" src="https://github.com/user-attachments/assets/17ef2f6a-07c7-494a-9a50-726a2ec2e394" />
 ”>**. ...
-<img src=<img width="337" height="287" alt="image" src="https://github.com/user-attachments/assets/c0d19e10-ccb9-479e-9dba-87bc9bf923f7" />
- alt="Project Screenshot" width="400">
+![alt text](<img width="337" height="287" alt="image" src="https://github.com/user-attachments/assets/463fbe28-a18b-45cf-aaed-9ee58b6f1caf" />
+)
 <img src="https://64.media.tumblr.com/02aafb8de5336865a1c6627c78eb3795/72e2590fb9e2f26c-37/s250x400/c49ae6229e7e68680543723f1b1fc1fca0e79ebc.gifv"/>
 <img src="https://64.media.tumblr.com/e37ae14b2830448611ee6aeff95e9081/72e2590fb9e2f26c-e4/s250x400/df35141c404f3845ea7cc5c4c174e78b283124f1.webp"/>
 <img src="https://64.media.tumblr.com/a1778fa5e7c342cc6c7237d8d5145fda/72e2590fb9e2f26c-70/s250x400/3669362b72335c0050ab91b9db3d068c5be49e97.jpg"/>
